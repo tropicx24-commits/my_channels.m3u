@@ -127,7 +127,10 @@ https://cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8
 
 #EXTINF:-1,BUDONİ
 https://cdn-006.whatsupcams.com/hls/it_budoni01.m3u8
-
+#EXTINF:-1  tvg-logo="https://www.meteobox.pl/api-svg/polska/g/gdynia-pl.svg" group-title="Miasta",Gdynia Orłowo
+https://ls.tkchopin.pl:9043/live/gdynia_orlowo_plaza_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.meteobox.pl/api-svg/polska/h/hel-pl.svg" group-title="Miasta",Hel
+https://ls.tkchopin.pl:9043/live/hel_bulwar_nadmorski_obrotowa.stream/playlist.m3u8
 #EXTINF:-1  group-title="Plaże",ŚWINOUJCIE - widok na Plaże i morze
 https://hoktastream4.webcamera.pl/swinoujscie_cam_3be0ba/swinoujscie_cam_3be0ba.stream/playlist.m3u8
 #EXTINF:-1  group-title="Plaże",ŚWINOUJCIE - widok na plażę
